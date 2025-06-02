@@ -1,68 +1,27 @@
-# 🚀 Breno Araújo 
+# 🚀 Breno Araújo
 
-**`Desenvolvedor FullStack`**
+**FullStack Developer**
 
-Oi, eu sou o Breno. Nasci em 98 e programo desde 2012, quando fui instigado a aprender depois de muito tempo no mundo da computação. Sempre amei a automação e segurança, e acho que isso quem me guiou nessa jornada de DEV. Passando inicialmente por curso tecnico de redes e em seguida na engenharia da computação. Fazer projetos tomarem vida realmente foi o que sempre amei nesse mundo de desenvolvimento.
+Hi there! I'm **Breno**, born in 1998, and I've been coding since 2012. My passion for technology started early when I was inspired to learn after years of curiosity about computers. I've always been fascinated by **automation** and **security**, and I believe those interests have guided me throughout my DEV journey.
+
+I began my studies with a technical course in Computer Networking and later pursued a degree in Computer Engineering. What truly excites me is bringing projects to life — turning ideas into real, functional solutions is what I love most in the development world.
 
 ---
 
-### Tecnologias Favoritas
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
-/>
+### 🛠 Favorite Technologies
 
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img title="PHP" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img title="HTML" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img title="CSS" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img title="JavaScript" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img title="Bootstrap" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img title="jQuery" alt="jQuery" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+  <img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+</div>
 
-<br/>
+---
+
+📫 **Get in touch**:  
+Feel free to reach out if you'd like to chat about tech, projects, or just share ideas!
+Hit me up on Discord: _breno
