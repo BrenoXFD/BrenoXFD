@@ -1,6 +1,7 @@
 # 🚀 Breno Araújo 
 
 **`Desenvolvedor FullStack`**
+
 Oi, eu sou o Breno. Nasci em 98 e programo desde 2012, quando fui instigado a aprender depois de muito tempo no mundo da computação. Sempre amei a automação e segurança, e acho que isso quem me guiou nessa jornada de DEV. Passando inicialmente por curso tecnico de redes e em seguida na engenharia da computação. Fazer projetos tomarem vida realmente foi o que sempre amei nesse mundo de desenvolvimento.
 
 ---
